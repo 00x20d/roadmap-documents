@@ -1,0 +1,123 @@
+{
+  "Backend Roadmap": {
+    "Observability": [
+      "Metrics logging and other",
+      "Debugging and solving issues when things go wrong",
+      "Observable items that can help"
+    ],
+    "Architectural Patterns": [
+      "Monolithic Apps",
+      "Microservices",
+      "SOA",
+      "Message Brokers"
+    ],
+    "Containerization vs Virtualization": [
+      "Docker",
+      "LXC"
+    ],
+    "Web Servers": [
+      "Nginx",
+      "Apache",
+      "Caddy",
+      "MS IIS"
+    ],
+    "GraphQL Ecosystem": [
+      "Apollo",
+      "Relay Modern"
+    ],
+    "Authentication Methods": [
+      "OAuth",
+      "Basic Auth",
+      "Token Auth",
+      "JWT",
+      "OpenID",
+      "SAML"
+    ],
+    "Caching Strategies": [
+      "Redis",
+      "Memcached",
+      "Server Side",
+      "Client Side",
+      "CDN"
+    ],
+    "Relational Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "MariaDB",
+      "MS SQL",
+      "Oracle"
+    ],
+    "NoSQL Databases": [
+      "ACID",
+      "Transactions",
+      "N+1 Problem",
+      "Sharding Strategies",
+      "Normalization",
+      "Data Replication",
+      "Database Indexes"
+    ],
+    "APIs": [
+      "REST",
+      "JSON APIs",
+      "SOAP",
+      "HATEOAS",
+      "Open API Specs",
+      "gRPC"
+    ],
+    "Security": [
+      "MD5 and why not to use it",
+      "SHA Family",
+      "scrypt",
+      "bcrypt",
+      "Cookie Based Auth",
+      "HTTPS",
+      "SSL/TLS",
+      "CORS",
+      "Content Security Policy",
+      "OWASP Risks"
+    ],
+    "Programming Languages": [
+      "Go",
+      "Java",
+      "Rust",
+      "C#",
+      "PHP",
+      "JavaScript",
+      "Python",
+      "Ruby"
+    ],
+    "Internet Fundamentals": [
+      "How does the internet work?",
+      "What is HTTP?",
+      "Browsers and how they work?",
+      "DNS and how it works?",
+      "Domain Names",
+      "Hosting"
+    ],
+    "DevOps & Infrastructure": [
+      "Git",
+      "GitHub",
+      "CI/CD",
+      "Kubernetes",
+      "Docker",
+      "Serverless",
+      "Monitoring",
+      "Telemetry"
+    ],
+    "Database Specialization": [
+      "Document DBs (MongoDB, CouchDB)",
+      "Time Series DBs (InfluxDB, TimeScale)",
+      "Realtime DBs (Firebase, RethinkDB)",
+      "Column DBs (Cassandra, HBase)",
+      "Key-Value DBs (Redis, DynamoDB)",
+      "Graph DBs (Neo4j)"
+    ],
+    "Architecture Patterns": [
+      "CQRS",
+      "Event Sourcing",
+      "Service Mesh",
+      "Twelve Factor Apps",
+      "CAP Theorem"
+    ]
+  }
+}
